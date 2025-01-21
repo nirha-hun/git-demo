@@ -7,3 +7,5 @@ git master rebase
 this is new line
 
 one more line
+
+git master- remote
