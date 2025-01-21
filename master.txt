@@ -13,3 +13,4 @@ git master- remote
 git master- pull
 
 git master local pull
+git master - repote pull
