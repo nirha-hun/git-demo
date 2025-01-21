@@ -1,3 +1,4 @@
 this is main branch
 
 git merge ff
+git 3 ways
